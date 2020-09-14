@@ -1,0 +1,8 @@
+1   Wireframing  - Draw a rough sketch of what you are actaully going to build 
+2  Functionality 
+  * Sign In 
+  * Sign Up 
+  * Create message in a channel 
+  * Join in a channel 
+  * Someone should be able to search a channel
+  * Able to chat 
