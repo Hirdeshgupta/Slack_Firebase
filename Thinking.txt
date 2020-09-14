@@ -1,8 +1,26 @@
 1   Wireframing  - Draw a rough sketch of what you are actaully going to build 
 2  Functionality 
-  * Sign In 
-  * Sign Up 
-  * Create message in a channel 
-  * Join in a channel 
-  * Someone should be able to search a channel
-  * Able to chat 
+    * Sign In 
+    * Sign Up 
+    * Create message in a channel 
+    * Join in a channel 
+    * Someone should be able to search a channel
+    * Able to chat 
+3 Data 
+    * Storing Users on Database 
+    * Channels are there 
+    * store messages
+4 UI Components -
+    * Side Bar 
+        * List of Channels Components 
+        * List of Direct Messages Components 
+    * Main Container Component 
+        * Header 
+        * Lists Of Messages 
+            * Avatar
+            * TimeStamp 
+            * Name 
+            * Message itself 
+        * Create Messages
+    * Signup / Sign In Forms
+    
